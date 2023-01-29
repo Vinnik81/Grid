@@ -1,0 +1,7 @@
+.container {
+  width: 750px;
+  height: 700px;
+  background-color: antiquewhite;
+  display: grid;
+  grid-template-areas: "head head head head side body body body side body body body foot foot foot foot";
+}/*# sourceMappingURL=style.css.map */
